@@ -1,6 +1,3 @@
-Of course. Here is a complete `README.md` file based on the code you provided.
-
------
 
 # 🤖 LangGraph & Streamlit Chatbot
 
